@@ -7,3 +7,7 @@
 Believing:
 
 $$A = P \left(1 + \frac{r}{n}\right)^{nt}$$
+
+
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
