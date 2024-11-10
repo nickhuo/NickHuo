@@ -1,2 +1,1 @@
-# aboutjj
-My intro pinned on my profile
+# About Nick H.
