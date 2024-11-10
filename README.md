@@ -4,3 +4,6 @@
 
 🌐 Building something wonderful.
 
+Believing:
+
+$A = P \left(1 + \frac{r}{n}\right)^{nt}$
