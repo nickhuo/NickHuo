@@ -6,4 +6,4 @@
 
 Believing:
 
-$A = P \left(1 + \frac{r}{n}\right)^{nt}$
+$$A = P \left(1 + \frac{r}{n}\right)^{nt}$$
