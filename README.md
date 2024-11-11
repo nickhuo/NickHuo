@@ -1,4 +1,4 @@
-👋 Hello! I'm Nick Huo
+# 👋 Hello! I'm Nick Huo
 
 🎓 Graduate Student in **Information Science** at **UIUC**.
 
