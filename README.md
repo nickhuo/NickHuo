@@ -11,5 +11,4 @@ $$
 - $t$ is time—the most important variable. The faster I move, the faster I learn. Acting early means more cycles, more feedback, more evolution. No one leaps to the top in one jump.
 
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
+![](https://komarev.com/ghpvc/?username=nickhuo&color=orange)
