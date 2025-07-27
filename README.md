@@ -9,7 +9,6 @@ $$
 - $PresentValue$ is who I am today. I stand here because of [all the connected dots](https://www.notion.so/1f7d494f568380319a65e8617d7949f4?pvs=21) behind me: choices made, paths taken, and lessons learned.
 - $i$ is growth rate. It fluctuates—sometimes slow, sometimes steep—but I stay in the game, always learning, always compounding.
 - $t$ is time—the most important variable. The faster I move, the faster I learn. Acting early means more cycles, more feedback, more evolution. No one leaps to the top in one jump.
-$$A = P \left(1 + \frac{r}{n}\right)^{nt}$$
 
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
