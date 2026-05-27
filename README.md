@@ -1,4 +1,6 @@
-I went to college in Shenzhen, shaped by its tech-driven momentum. From sandbox math models tackling supply chain and finance challenges, to driving 0-to-1 growth at Sonic SVM and scaling monetization at Tencent and Baidu. Now at UIUC, I’m building agents, driven by deep product thinking and technical innovation.
+I build software that learns from how people actually use it. The interesting part was never the model or the infra on its own — it's the loop between what people need and a system reliable enough to benefit them. Right now I'm researching multi-agent for personalized learning at the Beckman Institute, and helping build an AI copilot for aircraft. Before this, I built data infrastructure at Sonic SVM on Solana, and worked on growth and ads at Tencent and Baidu. Looking back, the dots connect: each role taught me a different part of that loop — what people need, how to capture the signal, how to make the system hold in production.
+
+I believe a great tool is a bicycle for the mind that amplifies human intelligence.
 
 Here are all about this formula, the compound interest formula:
 
